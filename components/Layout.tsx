@@ -2,7 +2,8 @@ import { Children } from "@/types/Types";
 
 const BACKGROUND_GRADIENT_STYLE = {
   background:
-    "linear-gradient(150deg, rgba(148, 12, 232, 1) 0%, rgba(9, 39, 121, 1) 48%, rgba(0, 149, 255, 1) 100%)",
+    "linear-gradient(145deg,rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 106, 255, 1) 100%)",
+   
 };
 
 function Layout({ children }: Children) {
