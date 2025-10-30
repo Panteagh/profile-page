@@ -24,8 +24,7 @@ Goal: deliver a polished, accessible, and responsive single-page profile compone
 **Notes on implementation**
 - This project intentionally keeps architecture simple (single-page, componentized) to match the task requirements.
 - I implemented UI polish (spacing, typography, subtle motion) while keeping the code understandable and commented.
-- Time spent: ~5h — replace with your actual time.
-
+- Time spent: ~5h 
 ---
 
 ## Tech stack
