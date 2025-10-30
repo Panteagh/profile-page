@@ -6,7 +6,7 @@
 ---
 
 ## Demo
-- Live demo: [[PLACEHOLDER - add your Vercel or netlify link here](https://profile-page-umber.vercel.app/)]
+- Live demo: [(https://profile-page-umber.vercel.app/)]
 
 ---
 
