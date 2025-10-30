@@ -12,7 +12,7 @@ function Footer() {
 
         <SocialBottonGroups />
 
-        <p className="mt-8 text-sm text-gray-400 font-mono max-md:my-3.5">
+        <p className="mt-8 text-sm text-gray-400 font-mono max-md:mx-3.5">
           © {new Date().getFullYear()} Pantea Ghaffari. Built with Next.js &
           Tailwind CSS.
         </p>
